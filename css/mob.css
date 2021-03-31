@@ -1,0 +1,28 @@
+.container {
+	width: 100% auto;
+	border-radius: 0px;
+	margin: 00 auto; 
+}
+
+
+aside.right, aside.left{
+	text-align: center;
+	float: inherit;
+
+}
+
+section.place, section.wish, section.footer{
+	text-align: center;
+}
+
+.head img{
+	border-radius: 0px;
+}
+
+section.footer{
+	border-radius: 0px;
+}
+section.footer{
+	line-height: 0px;
+
+}
